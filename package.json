@@ -1,5 +1,5 @@
 {
-  "name": "getintodevops-hellonode",
+  "name": "casrlw-hellonode",
   "version": "1.0.0",
   "description": "A Hello World HTTP server",
   "main": "main.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/getintodevops/masterclass-codeexamples/"
+    "url": "https://github.com/CASRLW/-00--GH/"
   },
   "keywords": [
     "node",
     "docker",
     "dockerfile"
   ],
-  "author": "miiro@getintodevops.com",
-  "license": "ISC",
+  "author": "cas2.0@protonmail.com",
+  "license": "MIT",
   "devDependencies": { "test": ">=0.6.0" }
 }
 
